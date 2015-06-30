@@ -1,0 +1,4 @@
+drivers/*           /usr/lib/xorg/modules/drivers
+man/*               /usr/share/man/man4
+changelog.gz        /usr/share/doc/xf86-video-sis-antix
+copyright           /usr/share/doc/xf86-video-sis-antix
